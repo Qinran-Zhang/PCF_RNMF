@@ -1,0 +1,11 @@
+1.主函数：以下四个文件是45个样本和1000个样本有误噪声共计4组数据的主代码，可直接运行。
+main_sim_no_noise.m
+main_sim_no_noise_sam45.m
+main_sim_with_noise.m
+main_sim_with_noise_sam45.m
+
+2.核心代码
+NMF.m 非负矩阵分解
+RNMF.m 随机非负矩阵分解
+NMF_r.m 加正则化项的NMF
+NMF_r.m 加正则化项的RNMF
