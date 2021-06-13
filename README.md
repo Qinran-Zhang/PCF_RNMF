@@ -16,6 +16,6 @@ simulated dataset 4: main_sim_with_noise.m
 In the "CORE-OS" folder, the data analysis code "OS-code.R" can be run directly, "CORE-OS.RData" is the file that saves the data used by RNMF, and "SC_RSF-OS.R" is the code about the random survival forest screens variables.
 
 4. Recurrence prediction of stage II/III CRC colorectal cancer
-In the "CORE-DFI" folder, the data analysis code "DFI-code.R" can be run directly, "CORE-DFI.RData" is the file that saves the data used by RNMF, and "SC_RSF-DFI.R" is the code about the random survival forest screens variables.
+In the "CORE-DFI" folder, the data analysis code "DFI-code.R" can be run directly, and "SC_RSF-DFI.R" is the code about the random survival forest screens variables.
 
 
